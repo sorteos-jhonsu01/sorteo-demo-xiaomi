@@ -1,0 +1,17 @@
+{
+  "slug": "sorteo-demo-xiaomi",
+  "title": "Celular Xiaomi",
+  "description": "Celular Xiaomi 15t 5g 512gb 12gb Ram Negro + Redmi Pad 2 Gris Wifi 128gb 4gb Ram, al completar los cupos juega con la lotería del Meta últimos 3 números",
+  "prize": "1 Celular Xiaomi",
+  "priceCents": 2000000,
+  "currency": "COP",
+  "numberRange": {
+    "min": 0,
+    "max": 999
+  },
+  "startsAt": "2026-07-15T17:31:40.322Z",
+  "endsAt": "2026-08-14T17:31:40.322Z",
+  "minSoldToDraw": 200,
+  "status": "ACTIVE",
+  "winner": null
+}
