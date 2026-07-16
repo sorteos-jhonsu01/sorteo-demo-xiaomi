@@ -1,0 +1,13 @@
+{
+  "raffleSlug": "sorteo-demo-xiaomi",
+  "drawnAt": "2026-07-16T01:56:22.406Z",
+  "winningNumber": 13,
+  "mechanism": "ADMIN_INPUT",
+  "winner": {
+    "number": 13,
+    "buyer": "Juan R.",
+    "purchasedAt": "2026-07-15T17:49:50.513Z",
+    "verifiedAt": "2026-07-15T17:51:23.310Z"
+  },
+  "status": "VALID"
+}
