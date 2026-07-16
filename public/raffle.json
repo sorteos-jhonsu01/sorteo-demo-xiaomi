@@ -12,8 +12,13 @@
   "startsAt": "2026-07-15T17:31:40.322Z",
   "endsAt": "2026-08-14T17:31:40.322Z",
   "minSoldToDraw": 200,
-  "status": "ACTIVE",
-  "winner": null,
+  "status": "DRAWN",
+  "winner": {
+    "buyer": "Juan R.",
+    "number": 13,
+    "verifiedAt": "2026-07-15T17:51:23.310Z",
+    "purchasedAt": "2026-07-15T17:49:50.513Z"
+  },
   "media": {
     "cover": "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-xiaomi/main/public/media/73ebeeb7629de80f.jpg",
     "gallery": [
