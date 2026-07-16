@@ -13,5 +13,26 @@
   "endsAt": "2026-08-14T17:31:40.322Z",
   "minSoldToDraw": 200,
   "status": "ACTIVE",
-  "winner": null
+  "winner": null,
+  "media": {
+    "cover": "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-xiaomi/main/public/media/73ebeeb7629de80f.jpg",
+    "gallery": [
+      "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-xiaomi/main/public/media/c31889055a7835f4.jpg",
+      "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-xiaomi/main/public/media/893a6208a8858ddd.jpg"
+    ],
+    "youtubeId": "y7yVfuGEZ4s"
+  },
+  "prizeItems": [
+    {
+      "name": "Celular Xiaomi 15t 5g 512gb 12gb Ram Negro",
+      "featured": false,
+      "imageUrl": "https://raw.githubusercontent.com/sorteos-jhonsu01/sorteo-demo-xiaomi/main/public/media/c31889055a7835f4.jpg",
+      "valueCents": 214600000,
+      "description": ""
+    }
+  ],
+  "prizeTotalCents": 214600000,
+  "theme": {
+    "accent": "#ec4899"
+  }
 }
