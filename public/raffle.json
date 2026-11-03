@@ -10,9 +10,9 @@
     "max": 999
   },
   "startsAt": "2026-07-15T17:31:40.322Z",
-  "endsAt": "2026-08-14T17:31:40.322Z",
-  "drawAt": null,
-  "minSoldToDraw": 200,
+  "endsAt": "2026-11-08T03:20:00.000Z",
+  "drawAt": "2026-11-08T04:04:00.000Z",
+  "minSoldToDraw": 2,
   "status": "DRAWN",
   "winner": {
     "buyer": "Juan R.",
@@ -41,5 +41,8 @@
   "theme": {
     "accent": "#ec4899"
   },
-  "organizer": {}
+  "organizer": {
+    "name": "Influencer local",
+    "regime": "DESCENTRALIZADA"
+  }
 }
