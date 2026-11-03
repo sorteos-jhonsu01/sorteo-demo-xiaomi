@@ -11,6 +11,7 @@
   },
   "startsAt": "2026-07-15T17:31:40.322Z",
   "endsAt": "2026-08-14T17:31:40.322Z",
+  "drawAt": null,
   "minSoldToDraw": 200,
   "status": "DRAWN",
   "winner": {
@@ -39,5 +40,6 @@
   "prizeTotalCents": 214600000,
   "theme": {
     "accent": "#ec4899"
-  }
+  },
+  "organizer": {}
 }
